@@ -1,0 +1,17 @@
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\bin\Debug\net6.0\TransactionManagementService.Infrastructure.deps.json
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\bin\Debug\net6.0\TransactionManagementService.Infrastructure.dll
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\bin\Debug\net6.0\TransactionManagementService.Infrastructure.pdb
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\bin\Debug\net6.0\TransactionManagementService.Application.dll
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\bin\Debug\net6.0\TransactionManagementService.Domain.dll
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\bin\Debug\net6.0\TransactionManagementService.Domain.pdb
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\bin\Debug\net6.0\TransactionManagementService.Application.pdb
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\obj\Debug\net6.0\TransactionManagementService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\obj\Debug\net6.0\TransactionManagementService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\obj\Debug\net6.0\TransactionManagementService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\obj\Debug\net6.0\TransactionManagementService.Infrastructure.AssemblyInfo.cs
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\obj\Debug\net6.0\TransactionManagementService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\obj\Debug\net6.0\Transact.72B95BB8.Up2Date
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\obj\Debug\net6.0\TransactionManagementService.Infrastructure.dll
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\obj\Debug\net6.0\refint\TransactionManagementService.Infrastructure.dll
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\obj\Debug\net6.0\TransactionManagementService.Infrastructure.pdb
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Infrastructure\obj\Debug\net6.0\ref\TransactionManagementService.Infrastructure.dll

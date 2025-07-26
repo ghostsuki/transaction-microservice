@@ -1,0 +1,15 @@
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\bin\Debug\net6.0\TransactionManagementService.Application.deps.json
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\bin\Debug\net6.0\TransactionManagementService.Application.dll
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\bin\Debug\net6.0\TransactionManagementService.Application.pdb
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\bin\Debug\net6.0\TransactionManagementService.Domain.dll
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\bin\Debug\net6.0\TransactionManagementService.Domain.pdb
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\obj\Debug\net6.0\TransactionManagementService.Application.csproj.AssemblyReference.cache
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\obj\Debug\net6.0\TransactionManagementService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\obj\Debug\net6.0\TransactionManagementService.Application.AssemblyInfoInputs.cache
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\obj\Debug\net6.0\TransactionManagementService.Application.AssemblyInfo.cs
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\obj\Debug\net6.0\TransactionManagementService.Application.csproj.CoreCompileInputs.cache
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\obj\Debug\net6.0\Transact.1F5F9C7D.Up2Date
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\obj\Debug\net6.0\TransactionManagementService.Application.dll
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\obj\Debug\net6.0\refint\TransactionManagementService.Application.dll
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\obj\Debug\net6.0\TransactionManagementService.Application.pdb
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Application\obj\Debug\net6.0\ref\TransactionManagementService.Application.dll

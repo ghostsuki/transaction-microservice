@@ -1,0 +1,12 @@
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Domain\bin\Debug\net8.0\TransactionManagementService.Domain.deps.json
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Domain\bin\Debug\net8.0\TransactionManagementService.Domain.dll
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Domain\bin\Debug\net8.0\TransactionManagementService.Domain.pdb
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Domain\obj\Debug\net8.0\TransactionManagementService.Domain.csproj.AssemblyReference.cache
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Domain\obj\Debug\net8.0\TransactionManagementService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Domain\obj\Debug\net8.0\TransactionManagementService.Domain.AssemblyInfoInputs.cache
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Domain\obj\Debug\net8.0\TransactionManagementService.Domain.AssemblyInfo.cs
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Domain\obj\Debug\net8.0\TransactionManagementService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Domain\obj\Debug\net8.0\TransactionManagementService.Domain.dll
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Domain\obj\Debug\net8.0\refint\TransactionManagementService.Domain.dll
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Domain\obj\Debug\net8.0\TransactionManagementService.Domain.pdb
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.Domain\obj\Debug\net8.0\ref\TransactionManagementService.Domain.dll

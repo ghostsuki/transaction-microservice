@@ -1,0 +1,8 @@
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.API\obj\Debug\net9.0\TransactionManagementService.API.csproj.AssemblyReference.cache
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.API\obj\Debug\net9.0\TransactionManagementService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.API\obj\Debug\net9.0\TransactionManagementService.API.AssemblyInfoInputs.cache
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.API\obj\Debug\net9.0\TransactionManagementService.API.AssemblyInfo.cs
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.API\obj\Debug\net9.0\TransactionManagementService.API.csproj.CoreCompileInputs.cache
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.API\obj\Debug\net9.0\TransactionManagementService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\laugu\TransactionManagementService\TransactionManagementService.API\obj\Debug\net9.0\TransactionManagementService.API.MvcApplicationPartsAssemblyInfo.cache

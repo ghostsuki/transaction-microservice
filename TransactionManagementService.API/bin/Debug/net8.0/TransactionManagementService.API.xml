@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TransactionManagementService.API</name>
+    </assembly>
+    <members>
+        <member name="M:TransactionManagementService.API.Controllers.TransactionsController.GetTransactions">
+            <summary>
+            Obtém todas as transações
+            </summary>
+            <returns>Lista de transações</returns>
+        </member>
+        <member name="M:TransactionManagementService.API.Controllers.TransactionsController.GetTransaction(System.String)">
+            <summary>
+            Obtém uma transação específica por ID
+            </summary>
+            <param name="id">ID da transação</param>
+            <returns>Transação encontrada</returns>
+        </member>
+        <member name="M:TransactionManagementService.API.Controllers.TransactionsController.CreateTransaction(TransactionManagementService.Application.DTOs.CreateTransactionDto)">
+            <summary>
+            Cria uma nova transação
+            </summary>
+            <param name="createTransactionDto">Dados da transação</param>
+            <returns>Transação criada</returns>
+        </member>
+    </members>
+</doc>

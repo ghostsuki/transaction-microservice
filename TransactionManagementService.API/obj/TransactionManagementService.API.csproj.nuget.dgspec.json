@@ -1,0 +1,291 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.API\\TransactionManagementService.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.API\\TransactionManagementService.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.API\\TransactionManagementService.API.csproj",
+        "projectName": "TransactionManagementService.API",
+        "projectPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.API\\TransactionManagementService.API.csproj",
+        "packagesPath": "C:\\Users\\laugu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\laugu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Application\\TransactionManagementService.Application.csproj": {
+                "projectPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Application\\TransactionManagementService.Application.csproj"
+              },
+              "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Infrastructure\\TransactionManagementService.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Infrastructure\\TransactionManagementService.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Application\\TransactionManagementService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Application\\TransactionManagementService.Application.csproj",
+        "projectName": "TransactionManagementService.Application",
+        "projectPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Application\\TransactionManagementService.Application.csproj",
+        "packagesPath": "C:\\Users\\laugu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\laugu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Domain\\TransactionManagementService.Domain.csproj": {
+                "projectPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Domain\\TransactionManagementService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Domain\\TransactionManagementService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Domain\\TransactionManagementService.Domain.csproj",
+        "projectName": "TransactionManagementService.Domain",
+        "projectPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Domain\\TransactionManagementService.Domain.csproj",
+        "packagesPath": "C:\\Users\\laugu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\laugu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Infrastructure\\TransactionManagementService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Infrastructure\\TransactionManagementService.Infrastructure.csproj",
+        "projectName": "TransactionManagementService.Infrastructure",
+        "projectPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Infrastructure\\TransactionManagementService.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\laugu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\laugu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Application\\TransactionManagementService.Application.csproj": {
+                "projectPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Application\\TransactionManagementService.Application.csproj"
+              },
+              "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Domain\\TransactionManagementService.Domain.csproj": {
+                "projectPath": "C:\\Users\\laugu\\TransactionManagementService\\TransactionManagementService.Domain\\TransactionManagementService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.17.4, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
